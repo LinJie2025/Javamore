@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="mysql-connector-java-5.1.47 (2)">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/mhl/libs/mysql-connector-java-5.1.47.jar!/" />
+      <root url="jar://$PROJECT_DIR$/mhl/libs/commons-dbutils-1.8.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

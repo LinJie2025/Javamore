@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Cpu/Cpu.iml" filepath="$PROJECT_DIR$/Cpu/Cpu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/File/File.iml" filepath="$PROJECT_DIR$/File/File.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Inet/Inet.iml" filepath="$PROJECT_DIR$/Inet/Inet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Javamore.iml" filepath="$PROJECT_DIR$/Javamore.iml" />
+      <module fileurl="file://$PROJECT_DIR$/QQClient/QQClient.iml" filepath="$PROJECT_DIR$/QQClient/QQClient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/QQServer/QQServer.iml" filepath="$PROJECT_DIR$/QQServer/QQServer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Reflection/Reflection.iml" filepath="$PROJECT_DIR$/Reflection/Reflection.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Tank/Tank.iml" filepath="$PROJECT_DIR$/Tank/Tank.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fanxing/fanxing.iml" filepath="$PROJECT_DIR$/fanxing/fanxing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jdbc/jdbc.iml" filepath="$PROJECT_DIR$/jdbc/jdbc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mhl/mhl.iml" filepath="$PROJECT_DIR$/mhl/mhl.iml" />
+    </modules>
+  </component>
+</project>
